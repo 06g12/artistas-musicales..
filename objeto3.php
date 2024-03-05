@@ -64,7 +64,7 @@ $artista03 = [
   "cancionfamosa" => "Side to side", 
  "cancionfamosa" => "positions", 
 ]
-$people = [
+$artistas = [
     $artista01,
     $artista02,
     $artista03,
