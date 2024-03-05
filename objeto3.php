@@ -1,3 +1,60 @@
+<?php
+
+artista01 = [
+"name" => "oliviaRodrigo",
+"genero" => "femenino",
+"edad" => 21,
+"estatura" => 1.65,
+"grammys" => 3,
+"programas" => " Disney Bizaardvark y High School Musical: The Musical: The Series",
+"albums" => 2,
+"nominaciones" => "mejor artista del año, cancion del año, album del año",
+"comida favorita" => "rollitos primavera",
+"exito" => "All I Want",
+"año del exito" => 2021,
+"color favorito" => "morado",
+"gustos" => "videos de comida en tik tok",
+"mejor amiga" => "Iris Apatow",
+"mejor amigo" => "conan grey",
+"fecha de nacimiento" => 20/02/2003,
+"tour 2024" => "septiembre",
+"canciones" => 22,
+"hermanos" => 0,
+];
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 //objetos
 $artista03 = [
     "nombre" => "arianagrande",
