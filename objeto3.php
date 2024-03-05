@@ -70,3 +70,17 @@ $artistas = [
     $artista03,
 ];
 
+$artistas_musicales = [];
+
+foreach ($artistas as $artista) {
+    $asrtistas_musicales[$artista["name"]] = $artista01;
+}
+if (isset($_GET["name"])) {
+    $nombre = $_GET["name"];
+
+    echo json_encode($artistas_musicales[$nombre]);
+} else {
+    
+    echo json_encode($artistas);
+}
+
