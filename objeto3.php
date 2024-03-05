@@ -21,40 +21,28 @@ artista01 = [
 "canciones" => 22,
 "hermanos" => 0,
 ];
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+$artista02 = [
+    "nombre" => "Elizabeth Wooldrige",
+    "nombreartistisco => "Lana del Rey",
+    "edad" => 38,
+    "fecha de nacimiento" => 21/06/1985,
+    "donde nacio" => "Manhattan",
+    "altura" => 1.69cm,
+    "hermanos" => 2,
+    "nominaciones" => 35,
+    "grammys" => 0,
+    "albumes" => 17,
+    "cancion viral" => "say yes to heaven",
+    "estilo musical" => "indie pop",
+    "aficion" => "cine clasico",
+    "adicciones" => "alcohol",
+    "tatuajes"  => 4,
+    "album mas vendido" => "Born to Die",
+    "color favorito" => "blanco",
+    "instrumentos" => "guitarra",
+    "novios" => 6,
+    "primera cancion" => "videogames",
+];
 //objetos
 $artista03 = [
     "nombre" => "arianagrande",
